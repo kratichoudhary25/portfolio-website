@@ -321,9 +321,10 @@ section {
 }
 
 .section_pic-container {
-    height: 400px;
-    width: 400px;
-    margin: auto 0;
+    justify-content: center;
+    height: 600px;
+    width: 600px;
+    margin: 0;
 }
 
 /* EXPERIENCE */
