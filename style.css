@@ -30,6 +30,7 @@ nav, .nav-links {
     position: sticky;
     top: 0;
     z-index: 999;
+    background-color: aliceblue;
 }
 
 nav {
