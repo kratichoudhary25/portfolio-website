@@ -27,6 +27,8 @@ a, .btn {
 
 nav, .nav-links {
     display: flex;
+    position: sticky;
+    top: 0;
 }
 
 nav {
